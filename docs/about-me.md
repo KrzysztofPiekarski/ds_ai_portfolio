@@ -12,7 +12,9 @@ After several years of teaching and working as a web developer, I deepened my te
 My approach to work and life is built on three core values:
 
 – **Minimalism** — to remove noise, not meaning
+
 – **Transparency** — to build trust, not to complicate
+
 – **Speed** — to respect time: yours and mine
 
 I believe that AI should simplify, not dominate — assist, not replace.
