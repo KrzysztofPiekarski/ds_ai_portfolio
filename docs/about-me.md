@@ -9,7 +9,8 @@ My studies taught me to ask meaningful questions, navigate complexity with curio
 After several years of teaching and working as a web developer, I deepened my technical expertise — embracing Python programming, DevOps practices, and machine learning. Today, I combine humanistic insight with technical precision to build tools that are both intelligent and intuitive.
 
 ## ✨ My Philosophy
-My approach to work and life is built on three core values:
+My approach to work and life is built on three core values:      
+
 
 – **Minimalism** — to remove noise, not meaning
 
