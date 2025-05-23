@@ -15,7 +15,7 @@ I am a data enthusiast and software developer focused on delivering efficient, m
 
 ## Portfolio
 
-I invite you to explore my work in data science and AI at my [portfolio website](https://KrzysztofPiekarski.github.com/ds_ai_portfolio/).
+I invite you to explore my work in data science and AI at my [portfolio website](https://krzysztofpiekarski.github.io/ds_ai_portfolio/).
 
 Explore my repositories to see these principles in action through real-world projects.
 
