@@ -1,0 +1,37 @@
+site_author: Krzysztof Piekarski
+site_url: https://KrzysztofPiekarski.github.io/ds_ai_portfolio
+
+site_name: My Projects
+
+nav:
+  - Home: index.md
+  - Current Projects:
+      - Overview: current-projects/index.md
+      - IchimokuAI App: current-projects/ichimokuAI/index.md
+  - My Projects:
+      - Overview: my-projects/index.md
+      - Lingua Master App: my-projects/LinguaMaster/index.md
+      - Find Friends App: my-projects/FindFriends/index.md
+      - Wrocław Marathon Predictor App: my-projects/Wroc-aw-Marathon-Predictor/index.md
+      - ChatBot App: my-projects/my_chatbot/index.md
+      - Audio Notes App: my-projects/audio_notes/index.md
+      - EDA Iris: my-projects/iris/index.md
+      - EDA Titanic: my-projects/titanic/index.md
+
+theme:
+  name: material
+  features:
+    - navigation.top
+    - search.highlight
+    - search.suggest
+  icon:
+    repo: fontawesome/brands/github
+  repo_url: https://github.com/twojlogin/twojrepozytorium
+  repo_name: GitHub
+
+# (opcjonalnie)
+markdown_extensions:
+  - admonition
+  - codehilite
+  - footnotes
+
