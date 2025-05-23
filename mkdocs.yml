@@ -8,6 +8,7 @@ site_name: My Projects
 
 nav:
   - Home: index.md
+  - About Me: about-me.md
   - Current Projects:
       - Overview: current-projects/index.md
       - IchimokuAI App: current-projects/ichimokuAI/index.md
@@ -15,12 +16,12 @@ nav:
       - Overview: my-projects/index.md
       - Lingua Master App: my-projects/LinguaMaster/index.md
       - Find Friends App: my-projects/FindFriends/index.md
-      - Wrocław Marathon Predictor App: my-projects/Wroc-aw-Marathon-Predictor/index.md
+      - Wroclaw Marathon Predictor App: my-projects/Wroclaw-Marathon-Predictor/index.md
       - ChatBot App: my-projects/my_chatbot/index.md
       - Audio Notes App: my-projects/audio_notes/index.md
       - EDA Iris: my-projects/iris/index.md
       - EDA Titanic: my-projects/titanic/index.md
-
+  
 theme:
   name: material
   features:
